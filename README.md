@@ -16,3 +16,13 @@ que yo hasta ahora desconocía, y crear un Readme, y una pequeña aplicación
 en Python. 
 
 Empezamos un camino nuevo y muy interesante.
+
+
+### Cuenta de linkedin
+https://www.linkedin.com/in/charo-s%C3%A1nchez-rodr%C3%ADguez-b9b395398/
+
+#### Personas a las que sigo
+
+- https://www.linkedin.com/in/conchita-diaz-cantarero/
+- https://www.linkedin.com/in/jose-antonio-marcos-garcia/
+- https://www.linkedin.com/in/eordax/
